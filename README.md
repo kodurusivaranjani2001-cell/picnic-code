@@ -1,1 +1,1 @@
-# picnic-code
+The code demonstrates Object-Oriented Programming (OOP) in Python using a class, constructor, and instance methods. It involves dictionary and list iteration, string formatting, and conditional logic to simulate picking up friends, visiting places, checking budget, and managing shopping details.
